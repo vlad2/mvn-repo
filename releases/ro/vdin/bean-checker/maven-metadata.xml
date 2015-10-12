@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ro.vdin</groupId>
+  <artifactId>bean-checker</artifactId>
+  <versioning>
+    <release>1.2</release>
+    <versions>
+      <version>1.2</version>
+    </versions>
+    <lastUpdated>20151012190900</lastUpdated>
+  </versioning>
+</metadata>
